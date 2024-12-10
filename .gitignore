@@ -1,0 +1,14 @@
+.env
+# Build klasörlerini dışla
+bin/
+obj/
+
+# Node.js projeleri için
+node_modules/
+
+# Visual Studio Code ayarları
+.vscode/
+
+# Diğer geçici dosyalar
+*.log
+*.tmp
